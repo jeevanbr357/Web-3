@@ -50,7 +50,7 @@ A decentralized application for secure, on-chain file storage and sharing using 
 ### Use Cases
 
 - **Private File Sharing** – Share legal, academic, or sensitive documents securely.
-- 🏛**Decentralized Certification** – Issue verified credentials or digital certificates.
+- **Decentralized Certification** – Issue verified credentials or digital certificates.
 - **DAO Access Control** – Restrict file access to community or organization members.
 - **Web3 File Marketplace** – Sell or license digital assets using NFTs and smart contracts.
 
